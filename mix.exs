@@ -56,7 +56,6 @@ defmodule Blog.MixProject do
       {:plug_cowboy, "~> 2.0"},
       {:sobelow, "~> 0.8", only: :dev},
       {:excoveralls, "~> 0.13.0", only: :test}
-
     ]
   end
 
